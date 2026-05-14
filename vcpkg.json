@@ -1,0 +1,11 @@
+{
+  "dependencies": [
+    "lua"
+  ],
+  "overrides": [
+    {
+      "name": "lua",
+      "version": "5.4.8"
+    }
+  ]
+}
